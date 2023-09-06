@@ -19,7 +19,7 @@
 <br>
 Ce projet utilisera Html, CSS, Vanilla Javascript.
 <br>
-
+<br>
 <p align="center">
 Voir La landing page : https://100sue.github.io/dev-ScoreurBrand/
 </p>
