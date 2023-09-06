@@ -1,5 +1,3 @@
-# dev-ScoreurBrand
-Landing Page de  Scoreur Lessons (complet)
 <h1 align="center">Landing Page de site de basket</h1>
 
 <p align="center">
@@ -25,8 +23,6 @@ Ce projet utilisera Html, CSS, Vanilla Javascript.
 <p align="center">
 Voir La landing page : https://100sue.github.io/dev-ScoreurBrand/
 </p>
-
-<br>
 
 <br>
 <br>
